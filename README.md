@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 ## 🗂 Projects
 
 ## 🔹 개인 프로젝트
-| 프로젝트명 | 설명 | 기술스택 | 링크 |
+| 프로젝트명 | 설명 | 기술스택 | PlayStore |
 |-----------|------|----------|------|
-| **Dead Planet** | 모바일 탑다운 TPS 게임 | Unity, C# | [🎮 Play Store](https://play.google.com/apps/test/RQ3E0j3oMcs/ahAO29uNSZ5ckZ-EFJFLKfMImctu1DdGq84SJde87l9YoZSF2beoEbzw6tvI29oNirLeWvQ-hlFQ3_oGUdT95QeBNf) |
+| **Dead Planet** | 모바일 탑다운 TPS 게임 | Unity, C# | [🎮 Link](https://play.google.com/apps/test/RQ3E0j3oMcs/ahAO29uNSZ5ckZ-EFJFLKfMImctu1DdGq84SJde87l9YoZSF2beoEbzw6tvI29oNirLeWvQ-hlFQ3_oGUdT95QeBNf) |
 | **Forgotten Woods** | 2D 플랫포머 RPG 게임 | Unity, C# | - |
 | **Monster Wave** | 모바일 로그라이크 게임 | Unity, C# | - |
 
