@@ -35,7 +35,7 @@
 ---
 
 ## 📄 Portfolio
-**[📂 View Full Portfolio](https://drive.google.com/file/d/1wckfcn9mpvl_oN61PVyZ-1hDTK6IFbYw/view)**
+**[📂 Link](https://drive.google.com/file/d/1wckfcn9mpvl_oN61PVyZ-1hDTK6IFbYw/view)**
 
 ---
 
