@@ -1,17 +1,3 @@
-<!--
-**LeeSoohyeon-dev/LeeSoohyeon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👾 LEE SOOHYEON
 
 🎮 **Game Developer** | 💻 C / C++ / C# | 🛠 Unity & Unreal Engine
@@ -46,6 +32,11 @@ Here are some ideas to get you started:
 | **FloodVR** | 침수 대비 VR 안전교육 게임 | Unity, C# | 프로젝트 총괄 및 상호작용 시스템 개발 | 4인 |
 | **Arcane Show** | 빙의 어드벤처 게임 | Unreal, Blueprint | 프로젝트 총괄 및 플레이어 기능, 게임 시스템 개발 | 3인 |
 | **차량 점검 가이드** | 차량 자가 진단 교육 AR 프로그램 | Unity, C# | UI/UX 설계 및 구현 | 4인 |
+---
+
+## 📄 Portfolio
+**[📂 View Full Portfolio](https://drive.google.com/file/d/1wckfcn9mpvl_oN61PVyZ-1hDTK6IFbYw/view)**
+
 ---
 
 ## 📫 Contact
