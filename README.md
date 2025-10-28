@@ -1,9 +1,5 @@
 # 👾 LEE SOOHYEON
   
-🎮 **Game Developer** | 💻 C / C++ / C# | 🛠 Unity & Unreal Engine
-  
----
-  
 ## 🔧 Tech Stack
   
 - **Languages**:  
