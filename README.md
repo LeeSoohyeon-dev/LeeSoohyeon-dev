@@ -1,6 +1,6 @@
-# 👾 LEE SOOHYEON
+# LEE SOOHYEON
   
-## 🔧 Tech Stack
+## Tech Stack
   
 - **Languages**:  
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -13,7 +13,7 @@
   
 ---
 
-## 📄 Portfolio
+## Portfolio
 
 <a href="https://drive.google.com/file/d/1wckfcn9mpvl_oN61PVyZ-1hDTK6IFbYw/view" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Portfolio-View%20on%20Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Portfolio"/>
@@ -21,7 +21,7 @@
 
 ---
 
-## 🗂 Projects
+## Projects
   
 ### 🔹 개인 프로젝트
 | 프로젝트명 | 설명 | 기술스택 | 다운로드 |
@@ -40,6 +40,6 @@
 ---
   
 
-## 📫 Contact
+## Contact
 
 - **Email**: inwonder1865@gmail.com  
