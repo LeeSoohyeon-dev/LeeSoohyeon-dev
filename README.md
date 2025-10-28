@@ -25,7 +25,7 @@
 ## 🔹 개인 프로젝트
 | 프로젝트명 | 설명 | 기술스택 | PlayStore |
 |-----------|------|----------|------|
-| **Dead Planet** | 모바일 탑다운 TPS 게임 | Unity, C# | <a href="https://play.google.com/store/apps/details?id=com.in.deadplanet"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png" alt="Google Play에서 다운로드" height="40"/></a> <a href="https://play.google.com/store/apps/details?id=com.in.deadplanet"><img src="./images/Dead_Planet_QR.png" alt="QR Code" height="40"/></a> |
+| **Dead Planet** | 모바일 탑다운 TPS 게임 | Unity, C# | <a href="https://play.google.com/store/apps/details?id=com.in.deadplanet"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png" alt="Google Play에서 다운로드" height="40"/></a> <a href="https://play.google.com/store/apps/details?id=com.in.deadplanet"><img src="images/Dead_Planet_QR.png" alt="QR Code" height="40"/></a> |
 | **Forgotten Woods** | 2D 플랫포머 RPG 게임 | Unity, C# | - |
 | **Monster Wave** | 모바일 로그라이크 게임 | Unity, C# | - |
   
